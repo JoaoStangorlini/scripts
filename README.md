@@ -69,3 +69,4 @@ npx tsx run_pipeline.ts
 
 ## 📄 Licença
 Distribuído sob licença AGPLv3 / MIT conforme os cabeçalhos de cada arquivo.
+

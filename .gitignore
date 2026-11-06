@@ -19,3 +19,4 @@ scrapers/cache/
 backups/
 *.log
 *.tmp
+
