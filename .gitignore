@@ -1,0 +1,21 @@
+# Arquivos de ambiente e credenciais
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.jks
+*.keystore
+
+# Caches e diretórios de execução
+__pycache__/
+*.py[cod]
+*$py.class
+node_modules/
+.DS_Store
+
+# Cache de raspagem e dados temporários pesados
+scrapers/cache/
+backups/
+*.log
+*.tmp

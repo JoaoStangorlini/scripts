@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" fill="none">
+  <!-- Equations & Formulas -->
+  <text x="80" y="60" fill="#0F4780" opacity="1" font-size="22" font-family="Georgia, serif" transform="rotate(-12 80 60)">E = mc²</text>
+  <text x="650" y="120" fill="#F14343" opacity="1" font-size="18" font-family="Georgia, serif" transform="rotate(8 650 120)">∂ψ/∂t</text>
+  <text x="1020" y="80" fill="#FFCC00" opacity="1" font-size="16" font-family="Georgia, serif" transform="rotate(-5 1020 80)">ℏ</text>
+  <text x="350" y="200" fill="#FFCC00" opacity="1" font-size="20" font-family="Georgia, serif" transform="rotate(15 350 200)">∇×B</text>
+  <text x="900" y="250" fill="#0F4780" opacity="1" font-size="24" font-family="Georgia, serif" transform="rotate(-8 900 250)">∫</text>
+  <text x="150" y="340" fill="#F14343" opacity="1" font-size="16" font-family="Georgia, serif" transform="rotate(6 150 340)">λ = h/p</text>
+  <text x="550" y="380" fill="#0F4780" opacity="1" font-size="18" font-family="Georgia, serif" transform="rotate(-10 550 380)">Σ</text>
+  <text x="1050" y="400" fill="#FFCC00" opacity="1" font-size="14" font-family="Georgia, serif" transform="rotate(12 1050 400)">ΔxΔp ≥ ℏ/2</text>
+  <text x="80" y="500" fill="#FFCC00" opacity="1" font-size="20" font-family="Georgia, serif" transform="rotate(-6 80 500)">π</text>
+  <text x="400" y="550" fill="#F14343" opacity="1" font-size="16" font-family="Georgia, serif" transform="rotate(9 400 550)">F = ma</text>
+  <text x="750" y="520" fill="#0F4780" opacity="1" font-size="22" font-family="Georgia, serif" transform="rotate(-15 750 520)">∂²u/∂t²</text>
+  <text x="200" y="680" fill="#0F4780" opacity="1" font-size="18" font-family="Georgia, serif" transform="rotate(4 200 680)">∮ E·dl</text>
+  <text x="600" y="720" fill="#FFCC00" opacity="1" font-size="16" font-family="Georgia, serif" transform="rotate(-7 600 720)">ψ(x,t)</text>
+  <text x="1000" y="650" fill="#F14343" opacity="1" font-size="20" font-family="Georgia, serif" transform="rotate(11 1000 650)">∞</text>
+  <text x="100" y="850" fill="#F14343" opacity="1" font-size="14" font-family="Georgia, serif" transform="rotate(-9 100 850)">iℏ∂ψ/∂t = Ĥψ</text>
+  <text x="480" y="900" fill="#0F4780" opacity="1" font-size="22" font-family="Georgia, serif" transform="rotate(7 480 900)">Ω</text>
+  <text x="850" y="870" fill="#FFCC00" opacity="1" font-size="16" font-family="Georgia, serif" transform="rotate(-13 850 870)">∇²φ</text>
+  <text x="300" y="1050" fill="#FFCC00" opacity="1" font-size="18" font-family="Georgia, serif" transform="rotate(5 300 1050)">α β γ</text>
+  <text x="700" y="1080" fill="#F14343" opacity="1" font-size="14" font-family="Georgia, serif" transform="rotate(-8 700 1080)">S = k ln W</text>
+  <text x="1080" y="1000" fill="#0F4780" opacity="1" font-size="20" font-family="Georgia, serif" transform="rotate(10 1080 1000)">∂/∂x</text>
+  <text x="50" y="1150" fill="#0F4780" opacity="1" font-size="16" font-family="Georgia, serif" transform="rotate(-4 50 1150)">μ₀ε₀</text>
+  <text x="550" y="1150" fill="#F14343" opacity="1" font-size="18" font-family="Georgia, serif" transform="rotate(14 550 1150)">ρ</text>
+  <text x="950" y="1150" fill="#FFCC00" opacity="1" font-size="22" font-family="Georgia, serif" transform="rotate(-11 950 1150)">Δ</text>
+
+  <!-- Tiny particles / dots -->
+  <circle cx="120" cy="130" r="1.5" fill="#0F4780" opacity="1"/>
+  <circle cx="450" cy="90" r="1" fill="#F14343" opacity="1"/>
+  <circle cx="780" cy="170" r="2" fill="#FFCC00" opacity="1"/>
+  <circle cx="300" cy="300" r="1" fill="#FFCC00" opacity="1"/>
+  <circle cx="950" cy="330" r="1.5" fill="#0F4780" opacity="1"/>
+  <circle cx="600" cy="450" r="1" fill="#F14343" opacity="1"/>
+  <circle cx="160" cy="600" r="2" fill="#0F4780" opacity="1"/>
+  <circle cx="500" cy="650" r="1" fill="#FFCC00" opacity="1"/>
+  <circle cx="850" cy="580" r="1.5" fill="#F14343" opacity="1"/>
+  <circle cx="1100" cy="550" r="1" fill="#0F4780" opacity="1"/>
+  <circle cx="330" cy="780" r="2" fill="#FFCC00" opacity="1"/>
+  <circle cx="700" cy="800" r="1" fill="#0F4780" opacity="1"/>
+  <circle cx="1050" cy="780" r="1.5" fill="#F14343" opacity="1"/>
+  <circle cx="80" cy="950" r="1" fill="#F14343" opacity="1"/>
+  <circle cx="420" cy="1000" r="2" fill="#0F4780" opacity="1"/>
+  <circle cx="750" cy="970" r="1" fill="#FFCC00" opacity="1"/>
+  <circle cx="1100" cy="900" r="1.5" fill="#FFCC00" opacity="1"/>
+  <circle cx="200" cy="1100" r="1" fill="#0F4780" opacity="1"/>
+  <circle cx="650" cy="1130" r="2" fill="#F14343" opacity="1"/>
+  <circle cx="1000" cy="1100" r="1" fill="#FFCC00" opacity="1"/>
+
+  <!-- Tiny atom-like shapes (static) -->
+  <ellipse cx="250" cy="450" rx="18" ry="6" fill="none" stroke="#0F4780" stroke-width="0.6" opacity="1" transform="rotate(30 250 450)"/>
+  <ellipse cx="250" cy="450" rx="18" ry="6" fill="none" stroke="#F14343" stroke-width="0.6" opacity="1" transform="rotate(-30 250 450)"/>
+  <ellipse cx="250" cy="450" rx="18" ry="6" fill="none" stroke="#FFCC00" stroke-width="0.6" opacity="1" transform="rotate(90 250 450)"/>
+  <circle cx="250" cy="450" r="2" fill="#FFCC00" opacity="1"/>
+
+  <ellipse cx="850" cy="750" rx="14" ry="5" fill="none" stroke="#FFCC00" stroke-width="0.6" opacity="1" transform="rotate(20 850 750)"/>
+  <ellipse cx="850" cy="750" rx="14" ry="5" fill="none" stroke="#0F4780" stroke-width="0.6" opacity="1" transform="rotate(-40 850 750)"/>
+  <ellipse cx="850" cy="750" rx="14" ry="5" fill="none" stroke="#F14343" stroke-width="0.6" opacity="1" transform="rotate(80 850 750)"/>
+  <circle cx="850" cy="750" r="1.5" fill="#F14343" opacity="1"/>
+
+  <ellipse cx="1080" cy="200" rx="12" ry="4" fill="none" stroke="#F14343" stroke-width="0.6" opacity="1" transform="rotate(45 1080 200)"/>
+  <ellipse cx="1080" cy="200" rx="12" ry="4" fill="none" stroke="#FFCC00" stroke-width="0.6" opacity="1" transform="rotate(-15 1080 200)"/>
+  <ellipse cx="1080" cy="200" rx="12" ry="4" fill="none" stroke="#0F4780" stroke-width="0.6" opacity="1" transform="rotate(75 1080 200)"/>
+  <circle cx="1080" cy="200" r="1.5" fill="#0F4780" opacity="1"/>
+</svg>

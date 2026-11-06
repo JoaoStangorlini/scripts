@@ -1,0 +1,25 @@
+{
+  "timestamp": "2026-10-26T04:05:27.604Z",
+  "events": {
+    "total": 30,
+    "valid": 30,
+    "distribution": {
+      "workshop": 3,
+      "coloquio": 14,
+      "institucional": 2,
+      "seminario": 5,
+      "convite-fisica": 6
+    },
+    "errors": []
+  },
+  "news": {
+    "total": 20,
+    "valid": 20,
+    "distribution": {
+      "Institucional": 11,
+      "Premiação": 5,
+      "Pesquisa": 4
+    },
+    "errors": []
+  }
+}

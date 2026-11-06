@@ -1,0 +1,464 @@
+{
+  "1": {
+    "bg_color": "#FFFFFF",
+    "layers": [
+      {
+        "id": "01_bg_math",
+        "name": "01. Padrão Matemático (bg-if)",
+        "selector": ".bg-math-pattern",
+        "opacity": 140
+      },
+      {
+        "id": "02_top_bar",
+        "name": "02. Linha Gradiente Topo",
+        "selector": ".brand-gradient-line-top"
+      },
+      {
+        "id": "03_header",
+        "name": "03. Header & Título Principal",
+        "selector": ".p1-header-section"
+      },
+      {
+        "id": "04_floating_stage",
+        "name": "04. Palco Central Flutuante",
+        "selector": ".p1-floating-stage"
+      },
+      {
+        "id": "05_logo_center",
+        "name": "05. Emblema Central HUB LabDiv",
+        "selector": ".p1-center-logo-box"
+      },
+      {
+        "id": "06_feature_badges",
+        "name": "06. Pílulas Satélites dos Recursos",
+        "selector": ".p1-feature-badge"
+      },
+      {
+        "id": "07_stats_strip",
+        "name": "07. Faixa de Métricas & Valores",
+        "selector": ".p1-stats-strip"
+      },
+      {
+        "id": "08_bottom_plane",
+        "name": "08. Base Integrada & QR Code",
+        "selector": ".p1-bottom-plane"
+      }
+    ]
+  },
+  "2": {
+    "bg_color": "#FFFFFF",
+    "layers": [
+      {
+        "id": "01_bg_math",
+        "name": "01. Padrão Matemático (bg-if)",
+        "selector": ".bg-math-pattern",
+        "opacity": 140
+      },
+      {
+        "id": "02_top_bar",
+        "name": "02. Linha Gradiente Topo",
+        "selector": ".brand-gradient-line-top"
+      },
+      {
+        "id": "03_header",
+        "name": "03. Moldura Editorial & Título",
+        "selector": ".p2-header-section"
+      },
+      {
+        "id": "04_reticle",
+        "name": "04. Retículo Científico de Calibração",
+        "selector": ".p2-reticle-container"
+      },
+      {
+        "id": "05_logo_center",
+        "name": "05. Emblema Central HUB LabDiv",
+        "selector": ".p2-logo-center-box"
+      },
+      {
+        "id": "06_stacked_cards",
+        "name": "06. 3 Faixas Horizontais dos Eixos",
+        "selector": ".p2-stacked-rows-section"
+      },
+      {
+        "id": "07_bottom_bar",
+        "name": "07. Base com QR Code & Licença",
+        "selector": ".p2-bottom-bar-section"
+      }
+    ]
+  },
+  "3": {
+    "bg_color": "#FFFFFF",
+    "layers": [
+      {
+        "id": "01_bg_math",
+        "name": "01. Padrão Matemático",
+        "selector": ".bg-math-pattern",
+        "opacity": 140
+      },
+      {
+        "id": "02_top_bar",
+        "name": "02. Linha Gradiente Topo",
+        "selector": ".brand-gradient-line-top"
+      },
+      {
+        "id": "04_top_left",
+        "name": "04. Título & Hero Topo",
+        "selector": ".p3-top-left"
+      },
+      {
+        "id": "05_top_qr",
+        "name": "05. Card QR Code Topo",
+        "selector": ".p3-top-right-qr"
+      },
+      {
+        "id": "06_hero_stage",
+        "name": "06. Mockup Smartphone & Ilustração",
+        "selector": ".p3-hero-section, .p3-center-stage"
+      },
+      {
+        "id": "07_bottom_strip",
+        "name": "07. Rodapé & Pilares",
+        "selector": ".p3-bottom-section, .p3-bottom-strip"
+      }
+    ]
+  },
+  "4": {
+    "bg_color": "#FFFFFF",
+    "layers": [
+      {
+        "id": "01_bg_math",
+        "name": "01. Padrão Matemático",
+        "selector": ".bg-math-pattern",
+        "opacity": 140
+      },
+      {
+        "id": "02_top_bar",
+        "name": "02. Linha Gradiente Topo",
+        "selector": ".brand-gradient-line-top"
+      },
+      {
+        "id": "04_header",
+        "name": "04. Título & Subtítulo",
+        "selector": ".header-section"
+      },
+      {
+        "id": "05_splatters",
+        "name": "05. Espirros de Tinta Vetoriais",
+        "selector": ".splatters-svg-layer"
+      },
+      {
+        "id": "06_center_icon",
+        "name": "06. Ícone Central HUB",
+        "selector": ".center-app-icon-container"
+      },
+      {
+        "id": "07_cards",
+        "name": "07. Balõezinhos dos Eixos",
+        "selector": ".axis-splat-card"
+      },
+      {
+        "id": "08_qr",
+        "name": "08. QR Code Inferior",
+        "selector": ".bottom-right-qr-clean"
+      },
+      {
+        "id": "09_footer",
+        "name": "09. Rodapé Institucional",
+        "selector": ".bottom-left-footer-box"
+      }
+    ]
+  },
+  "5": {
+    "bg_color": "#FFFFFF",
+    "layers": [
+      {
+        "id": "01_bg_math",
+        "name": "01. Padrão Matemático",
+        "selector": ".bg-math-pattern",
+        "opacity": 140
+      },
+      {
+        "id": "02_top_bar",
+        "name": "02. Linha Gradiente Topo",
+        "selector": ".brand-gradient-line-top"
+      },
+      {
+        "id": "04_header",
+        "name": "04. Título & Subtítulo",
+        "selector": ".header-section"
+      },
+      {
+        "id": "05_center_icon",
+        "name": "05. Ícone Central HUB",
+        "selector": ".center-app-icon-container"
+      },
+      {
+        "id": "06_cards",
+        "name": "06. Balõezinhos dos Eixos (Sem #)",
+        "selector": ".axis-splat-card"
+      },
+      {
+        "id": "07_qr",
+        "name": "07. QR Code Inferior",
+        "selector": ".bottom-right-qr-clean"
+      },
+      {
+        "id": "08_footer",
+        "name": "08. Rodapé Institucional",
+        "selector": ".bottom-left-footer-box"
+      }
+    ]
+  },
+  "6": {
+    "bg_color": "#FFFFFF",
+    "layers": [
+      {
+        "id": "01_bg_math",
+        "name": "01. Padrão Matemático",
+        "selector": ".bg-math-pattern",
+        "opacity": 140
+      },
+      {
+        "id": "02_top_bar",
+        "name": "02. Linha Gradiente Topo",
+        "selector": ".brand-gradient-line-top"
+      },
+      {
+        "id": "04_header",
+        "name": "04. Título & Subtítulo",
+        "selector": ".header-section"
+      },
+      {
+        "id": "05_hand_phone",
+        "name": "05. Ilustração Celular na Mão",
+        "selector": ".illustration-wrap"
+      },
+      {
+        "id": "06_cards",
+        "name": "06. Balõezinhos dos Eixos",
+        "selector": ".notif-balloon"
+      },
+      {
+        "id": "07_qr",
+        "name": "07. QR Code Inferior",
+        "selector": ".bottom-qr-col"
+      },
+      {
+        "id": "08_footer",
+        "name": "08. Rodapé Institucional",
+        "selector": ".bottom-inst-box"
+      }
+    ]
+  },
+  "7": {
+    "bg_color": "#FFFFFF",
+    "layers": [
+      {
+        "id": "01_bg_math",
+        "name": "01. Padrão Matemático",
+        "selector": ".bg-math-pattern",
+        "opacity": 140
+      },
+      {
+        "id": "02_top_bar",
+        "name": "02. Linha Gradiente Topo",
+        "selector": ".brand-gradient-line-top"
+      },
+      {
+        "id": "04_header",
+        "name": "04. Título & Badge Hero",
+        "selector": ".p7-header"
+      },
+      {
+        "id": "05_orbital",
+        "name": "05. Zona Orbital & Ícone",
+        "selector": ".p7-orbital-zone"
+      },
+      {
+        "id": "06_cards",
+        "name": "06. Os 3 Cards dos Eixos",
+        "selector": ".p7-card"
+      },
+      {
+        "id": "07_bottom",
+        "name": "07. QR Code & Rodapé",
+        "selector": ".bottom-third-plane"
+      }
+    ]
+  },
+  "8": {
+    "bg_color": "#FFFFFF",
+    "layers": [
+      {
+        "id": "01_bg_math",
+        "name": "01. Padrão Matemático",
+        "selector": ".bg-math-pattern",
+        "opacity": 140
+      },
+      {
+        "id": "02_top_bar",
+        "name": "02. Linha Gradiente Topo",
+        "selector": ".brand-gradient-line-top"
+      },
+      {
+        "id": "04_hero_box",
+        "name": "04. Card Destaque Topo",
+        "selector": ".p8-hero-zone"
+      },
+      {
+        "id": "05_headline",
+        "name": "05. Título & Subtítulo",
+        "selector": ".p8-headline-zone"
+      },
+      {
+        "id": "06_tri_grid",
+        "name": "06. Grid dos 3 Pilares",
+        "selector": ".p8-tri-grid"
+      },
+      {
+        "id": "07_bottom_panel",
+        "name": "07. Painel QR Code & Rodapé",
+        "selector": ".bottom-third-plane"
+      }
+    ]
+  },
+  "9": {
+    "bg_color": "#FFFFFF",
+    "layers": [
+      {
+        "id": "01_bg_math",
+        "name": "01. Padrão Matemático",
+        "selector": ".bg-math-pattern",
+        "opacity": 140
+      },
+      {
+        "id": "02_top_bar",
+        "name": "02. Linha Gradiente Topo",
+        "selector": ".brand-gradient-line-top"
+      },
+      {
+        "id": "04_left",
+        "name": "04. Coluna Hero & Ícone",
+        "selector": ".p9-left"
+      },
+      {
+        "id": "05_right",
+        "name": "05. Coluna Cards dos Pilares",
+        "selector": ".p9-right"
+      },
+      {
+        "id": "06_bottom",
+        "name": "06. Barra Inferior & QR Code",
+        "selector": ".bottom-third-plane"
+      }
+    ]
+  },
+  "10": {
+    "bg_color": "#FFFFFF",
+    "layers": [
+      {
+        "id": "01_bg_math",
+        "name": "01. Padrão Matemático",
+        "selector": ".bg-math-pattern",
+        "opacity": 140
+      },
+      {
+        "id": "02_top_bar",
+        "name": "02. Linha Gradiente Topo",
+        "selector": ".brand-gradient-line-top"
+      },
+      {
+        "id": "04_top_header",
+        "name": "04. Header & Tag LabDiv",
+        "selector": ".p10-top-header"
+      },
+      {
+        "id": "05_main_title",
+        "name": "05. Título Marca HUB LABDIV",
+        "selector": ".p10-title"
+      },
+      {
+        "id": "06_sub_title",
+        "name": "06. Subtítulo Descritivo",
+        "selector": ".p10-sub"
+      },
+      {
+        "id": "07_hero_center",
+        "name": "07. Ícone Central & Glow",
+        "selector": ".p10-center-logo-zone"
+      },
+      {
+        "id": "08_pillars",
+        "name": "08. Os 3 Pilares",
+        "selector": ".p10-pillars-row"
+      },
+      {
+        "id": "09_bottom_qr",
+        "name": "09. QR Code & Rodapé",
+        "selector": ".bottom-third-plane"
+      }
+    ]
+  },
+  "11": {
+    "bg_color": "#FFFFFF",
+    "layers": [
+      {
+        "id": "01_bg_math",
+        "name": "01. Padrão Matemático",
+        "selector": ".bg-math-pattern",
+        "opacity": 140
+      },
+      {
+        "id": "02_top_bar",
+        "name": "02. Linha Gradiente Topo",
+        "selector": ".brand-gradient-line-top"
+      },
+      {
+        "id": "04_left",
+        "name": "04. Coluna Editorial Esquerda",
+        "selector": ".p11-left-col"
+      },
+      {
+        "id": "05_right",
+        "name": "05. Coluna Destaque Direita & QR",
+        "selector": ".p11-right-col"
+      },
+      {
+        "id": "06_footer",
+        "name": "06. Rodapé Institucional",
+        "selector": ".bottom-third-plane"
+      }
+    ]
+  },
+  "12": {
+    "bg_color": "#FFFFFF",
+    "layers": [
+      {
+        "id": "01_diagonal",
+        "name": "01. Faixa Diagonal Decorativa",
+        "selector": ".p12-diagonal"
+      },
+      {
+        "id": "02_bg_math",
+        "name": "02. Padrão Matemático",
+        "selector": ".bg-math-pattern",
+        "opacity": 140
+      },
+      {
+        "id": "04_header",
+        "name": "04. Header & Título Principal",
+        "selector": ".p12-header"
+      },
+      {
+        "id": "05_cards_grid",
+        "name": "05. Grid de Cartões dos Eixos",
+        "selector": ".p12-cards-grid"
+      },
+      {
+        "id": "06_bottom",
+        "name": "06. Rodapé com QR Code & Acesso",
+        "selector": ".bottom-third-plane"
+      }
+    ]
+  }
+}

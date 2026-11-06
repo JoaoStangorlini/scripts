@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-10-26T04:05:28.411Z",
+  "total": 15,
+  "valid": 15,
+  "distribution": {
+    "estudo-biblioteca": 2,
+    "auditorio": 5,
+    "maker-convivencia": 4,
+    "oficina-tecnica": 2,
+    "laboratorio-pesquisa": 1,
+    "servico-alimentacao": 1
+  },
+  "errors": []
+}

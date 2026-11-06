@@ -1,0 +1,56 @@
+{
+  "master_roster_url": "https://portal.if.usp.br/ifusp/usuarios/docentes",
+  "base_portal_url": "https://portal.if.usp.br",
+  "departments": {
+    "fap": {
+      "slug": "fap",
+      "sigla": "FAP",
+      "dept_code": "FAP",
+      "name": "Física Aplicada",
+      "portal_url": "https://portal.if.usp.br/fap/pt-br/docentes"
+    },
+    "fmt": {
+      "slug": "fmt",
+      "sigla": "DFMT",
+      "dept_code": "FMT",
+      "name": "Física dos Materiais e Mecânica",
+      "portal_url": "https://portal.if.usp.br/fmt/pt-br/node/517"
+    },
+    "fge": {
+      "slug": "fge",
+      "sigla": "DFGE",
+      "dept_code": "FGE",
+      "name": "Física Geral",
+      "portal_url": "https://portal.if.usp.br/fge/pt-br/docentes"
+    },
+    "dfma": {
+      "slug": "dfma",
+      "sigla": "DFMA",
+      "dept_code": "FMA",
+      "name": "Física Matemática",
+      "portal_url": "https://portal.if.usp.br/dfma/"
+    },
+    "fnc": {
+      "slug": "fnc",
+      "sigla": "FNC",
+      "dept_code": "FNC",
+      "name": "Física Nuclear",
+      "portal_url": "https://portal.if.usp.br/dfn/"
+    },
+    "fep": {
+      "slug": "fep",
+      "sigla": "DFE",
+      "dept_code": "FEP",
+      "name": "Física Experimental",
+      "portal_url": "https://portal.if.usp.br/fep/pt-br/docentes"
+    }
+  },
+  "settings": {
+    "rate_limit_delay_seconds": 0.2,
+    "request_timeout_seconds": 8,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) HUB-LabDiv-Auditor/1.0",
+    "cache_dir": "scripts/scrapers/cache/raw_html",
+    "output_json": "scripts/scrapers/cache/parsed_departments.json",
+    "cache_ttl_hours": 24
+  }
+}
